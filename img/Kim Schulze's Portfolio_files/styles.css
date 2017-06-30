@@ -1,5 +1,5 @@
 .subheading {
-  font-style: oblique;;
+  font-style: oblique;
 }
 
 .container {
@@ -15,18 +15,14 @@ img {
   width: 10%;
 }
 
-h2 {
-  text-decoration: underline;
-}
-
 .introbar {
-  width: 25%;
+  width: 20%;
   float: left;
   font-family: 'Ubuntu', sans-serif;
 }
 
 .githubprojects  {
-  width: 75%;
+  width: 80%;
   float: left;
   font-family: 'Roboto Condensed', sans-serif;
 }
