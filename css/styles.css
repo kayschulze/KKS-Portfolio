@@ -6,6 +6,10 @@
   position: relative;
 }
 
+.picture {
+  text-align: center;
+}
+
 #clip {
   position: absolute;
   clip: rect(100px, 100px, 200px, 100px)
@@ -25,8 +29,8 @@ h2 {
   font-family: 'Ubuntu', sans-serif;
 }
 
-.githubprojectslist  {
-  width: 60%;
+.tabcontents  {
+  width: 75%;
   float: left;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -34,4 +38,9 @@ h2 {
 .background {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
+}
+
+.techskills {
+  color: red;
+  font-weight: bold;
 }
