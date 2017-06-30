@@ -14,9 +14,15 @@ img {
 .introbar {
   width: 20%;
   float: left;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .githubprojects  {
   width: 80%;
   float: left;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.background {
+  font-family: 'Source Sans Pro', sans-serif;
 }
