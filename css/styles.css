@@ -1,3 +1,7 @@
+body {
+  background-color: #ffe6ff;
+}
+
 .subheading {
   font-style: oblique;;
 }
@@ -21,6 +25,13 @@ img {
 
 h2 {
   text-decoration: underline;
+}
+
+.robotics {
+  width: 40%;
+  float: right;
+  margin: 10px;
+  padding-bottom: 30px;
 }
 
 .introbar {
