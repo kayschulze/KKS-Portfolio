@@ -14,11 +14,6 @@ body {
   text-align: center;
 }
 
-#clip {
-  position: absolute;
-  clip: rect(100px, 100px, 200px, 100px)
-}
-
 img {
   width: 10%;
 }

@@ -24,7 +24,7 @@ _
 
 ## Known Bugs
 
-_There are no known bugs in version 1.0._
+_There seems to be a bug where the links in the About Me section are not working._
 
 ## Support and contact details
 
