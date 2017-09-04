@@ -1,9 +1,10 @@
 body {
   background-color: beige;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .subheading {
-  font-style: oblique;;
+  font-style: oblique;
 }
 
 .container {
