@@ -1,5 +1,5 @@
 body {
-  background-color: beige;
+  background-color: #ceae69;
   font-family: 'Libre Baskerville', serif;
 }
 
@@ -48,6 +48,11 @@ h2 {
   font-size: 20px;
 }
 
+.jumbotron {
+  background-color: #326b32;
+  margin: 20px;
+}
+
 .techskills {
   color: red;
   font-weight: bold;
@@ -60,5 +65,9 @@ h2 {
 }
 
 a:link {
-  color: #f442c2;
+  color: #7b0ea5;
+}
+
+a:visited {
+  color: #4c3e21
 }
